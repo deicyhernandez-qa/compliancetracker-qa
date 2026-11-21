@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Producto-VendorShield-1B9E91?style=flat-square&labelColor=333333" />
-  <img src="https://img.shields.io/badge/Empresa-CyberProtect_Solutions-0B1F3A?style=flat-square&labelColor=333333" />
+  <img src="https://img.shields.io/badge/Empresa-CyberProtect_Solutions-2471A3?style=flat-square&labelColor=333333" />
   <img src="https://img.shields.io/badge/Hallazgos-69-E67E22?style=flat-square&labelColor=333333" />
   <img src="https://img.shields.io/badge/Secciones-5-2980B9?style=flat-square&labelColor=333333" />
   <img src="https://img.shields.io/badge/Estado-Resuelto-27AE60?style=flat-square&labelColor=333333" />

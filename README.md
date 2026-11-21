@@ -1,11 +1,11 @@
 # VendorShield QA — Reporte de Correcciones
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Producto-VendorShield-white?style=flat-square&labelColor=1B9E91" />
-  <img src="https://img.shields.io/badge/Empresa-CyberProtect_Solutions-white?style=flat-square&labelColor=0B1F3A" />
-  <img src="https://img.shields.io/badge/Hallazgos-69-white?style=flat-square&labelColor=E67E22" />
-  <img src="https://img.shields.io/badge/Secciones-5-white?style=flat-square&labelColor=2980B9" />
-  <img src="https://img.shields.io/badge/Estado-Resuelto-white?style=flat-square&labelColor=27AE60" />
+  <img src="https://img.shields.io/badge/Producto-VendorShield-0B1F3A?style=flat-square&labelColor=1B9E91" />
+  <img src="https://img.shields.io/badge/Empresa-CyberProtect_Solutions-0B1F3A?style=flat-square&labelColor=0B1F3A" />
+  <img src="https://img.shields.io/badge/Hallazgos-69-0B1F3A?style=flat-square&labelColor=E67E22" />
+  <img src="https://img.shields.io/badge/Secciones-5-0B1F3A?style=flat-square&labelColor=2980B9" />
+  <img src="https://img.shields.io/badge/Estado-Resuelto-0B1F3A?style=flat-square&labelColor=27AE60" />
 </p>
 
 ---
